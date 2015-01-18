@@ -5,8 +5,6 @@ from sys import argv
 ## JRD ASSEMBLER ##
 ###################
 
-##Test##
-
 
 print "JRD Nand2Tetris Assembler\n"
 
